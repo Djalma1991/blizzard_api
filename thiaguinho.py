@@ -1,0 +1,1 @@
+print("O thiaguinho ainda vai ganhar muito dinheiro na vida com programação")
